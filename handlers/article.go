@@ -81,7 +81,6 @@ func GetArticles(w http.ResponseWriter, r *http.Request) {
 		})
 	}
 
-	// Kirim response
 	w.WriteHeader(http.StatusOK)
 	json.NewEncoder(w).Encode(articles)
 }
