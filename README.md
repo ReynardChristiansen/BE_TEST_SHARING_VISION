@@ -1,5 +1,5 @@
 
-## Step to Run
+## Step to Run Backend
 Clone the Repository
     
     git clone https://github.com/ReynardChristiansen/BE_TEST_SHARING_VISION.git
@@ -24,6 +24,9 @@ Run the Server
 
     go run main.go
 
+## Step to Run Frontend
+
+https://github.com/ReynardChristiansen/FE_TEST_SHARING_VISION
 
 
 ## Endpoints
